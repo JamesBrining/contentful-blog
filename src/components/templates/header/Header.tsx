@@ -17,7 +17,7 @@ export const Header = () => {
         <Container className="flex items-center justify-between">
           <Link href="/" title={t('common.homepage')}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-              <Image src="/images/bus.png" width={50} height={50} alt="Picture of the author" />
+              <Image src="/images/rtb.png" width={50} height={50} alt="Picture of the bus" />
               <h2>Rides The Bus</h2>
             </div>
           </Link>
